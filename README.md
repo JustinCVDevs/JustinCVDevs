@@ -21,7 +21,7 @@ My focus is on:
 
 ## 🧾 Professional Summary
 
-Senior Full-Stack Engineer with 7+ years of experience delivering enterprise-grade platforms across **energy, healthcare, e-commerce, and legal-tech environments**.
+Full-Stack Engineer with experience delivering enterprise-grade platforms across **energy, healthcare, e-commerce, and legal-tech environments**.
 
 I specialise in building **multi-tenant SaaS systems, distributed workflow engines, and integration-heavy architectures** that operate reliably under production load.
 
