@@ -1,6 +1,7 @@
 # 🚀 Justin Joseph
 
 **Full-Stack Engineer · Systems & Integration Architect · Platform & Infrastructure Builder  · AI**
+
 📍 Pretoria, South Africa
 
 ---
