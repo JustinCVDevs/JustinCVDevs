@@ -26,7 +26,7 @@ Full-Stack Engineer with experience delivering enterprise-grade platforms across
 
 I specialise in building **multi-tenant SaaS systems, distributed workflow engines, and integration-heavy architectures** that operate reliably under production load.
 
-Across my career, I have consistently delivered **high-impact systems with zero reported downtime across multi-year deployments**, including healthcare workflow platforms and global enterprise asset management systems.
+Across my career, I have routinely delivered **high-impact systems with SLA level stability across multi-year deployments**, including healthcare workflow platforms and global enterprise asset management systems.
 
 ---
 
