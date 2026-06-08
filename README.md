@@ -1,11 +1,11 @@
 # 🚀 Justin Joseph
 
-**Senior Full-Stack Engineer · Systems & Integration Architect · Platform & Infrastructure Builder**
+**Full-Stack Engineer · Systems & Integration Architect · Platform & Infrastructure Builder  · AI**
 📍 Pretoria, South Africa
 
 ---
 
-## 🧠 Engineering Identity
+## 🧠 Engineering
 
 I design and build production systems that connect **enterprise software, physical infrastructure, and edge devices** into unified, high-availability platforms.
 
@@ -19,7 +19,7 @@ My focus is on:
 
 ---
 
-## 🧾 Professional Summary
+## 🧾 AI Summary
 
 Full-Stack Engineer with experience delivering enterprise-grade platforms across **energy, healthcare, e-commerce, and legal-tech environments**.
 
